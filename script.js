@@ -1,7 +1,7 @@
 // 1) LANDING photos: the 6 polaroids floating around the edges of every screen
-const PHOTOS = ['images/1.jpg','images/2.jpeg','images/3.jpg','images/4.jpeg','images/5.jpg','images/6.jpeg'];
+const PHOTOS = ['1.jpg','2.jpeg','3.jpg','4.jpeg','5.jpg','6.jpeg'];
 // 2) LETTER photos: the 6 polaroids inside the final letter (different from the landing ones)
-const LETTER_PHOTOS = ['images/7.jpg','images/8.jpg','images/9.jpg','images/10.jpg','images/11.jpg','images/12.jpeg'];
+const LETTER_PHOTOS = ['7.jpg','8.jpg','9.jpg','10.jpg','11.jpg','12.jpeg'];
 // Missing pictures show a pink heart instead.
 // 3) QUOTES shown at the bottom of each picture (same order as the photo lists above). Edit them freely.
 const QUOTES = ['Your smile makes the world brighter','Some people are just special','Stay as lovely as you are','Happiness looks beautiful on you','Good friends are rare treasures','Shine on, Riya'];
